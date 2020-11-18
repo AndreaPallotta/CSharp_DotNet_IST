@@ -1,0 +1,42 @@
+﻿@model RITFacultyV1.ViewModels.PeopleViewModel
+
+<h1 id="people_title">Our People</h1>
+<h5 id="people_subtitle">To view more about our faculty and staff, click below.</h5>
+<div id="people-content">
+    @foreach (var faculty in Model.Faculty)
+    {
+        <div data-target="#modal_@faculty.username" class="box faculty-box modal_open_staff modal-button">
+            <h5 class = "people_name">@faculty.name</h5>
+            <h6 class = "people_image_title">@faculty.title</h6>
+        </div>
+    }
+</div>
+
+@foreach (var faculty in Model.Faculty)
+{
+<div class="modal" id="modal_@faculty.username">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title" id="@faculty.username-title">
+                @faculty.name
+                <span class="modal-card-faculty-title">, @faculty.title</span>
+            </p>
+            <button class="delete" aria-label="close"></button>
+        </header>
+
+        <section style="display: flex;" class="modal-card-body" id="@faculty.username-body">
+            <div style="width:50%;">
+                <p>Username: @faculty.username</p>
+                <p>Office: @faculty.office</p>
+                <p>Interest: @faculty.interestArea</p>
+                <p>Email: @faculty.email</p>
+                <p>Phone: @faculty.phone</p>
+                <p>Facebook: @faculty.facebook</p>
+                <p>Twitter: @faculty.twitter</p>
+                <img data-uname="@faculty.username" style="float: right; -webkit-box-shadow: 6px 3px 15px -4px rgba(0,0,0,0.75); -moz-box-shadow: 6px 3px 15px -4px rgba(0,0,0,0.75); box-shadow: 6px 3px 15px -4px rgba(0,0,0,0.75);" src="@faculty.imagePath" />
+            </div>
+        </section>
+    </div>
+ </div>
+    }

@@ -1,0 +1,38 @@
+﻿@model RITFacultyV1.ViewModels.MinorsViewModel
+
+    <div id="minors">
+        <h1 id="minors-title">Undergraduate Minors</h1>
+        <div id="minors-container">
+            @foreach (var minor in Model.minors)
+            {
+                <div class="minors-name card modal_open_minors modal-button" data-target="#modal_@minor.name">
+                    <h5 style="color: #009CBD;">@minor.title</h5>
+                </div>
+            }
+        </div>
+
+        @foreach (var minor in Model.minors)
+        {
+            <div id="modal_@minor.name" class="modal">
+                <div class="modal-background"></div>
+                <div class="modal-card"><p style = "margin-top: 0.5em; color: red">
+                    <header class="modal-card-head">
+                        <p class="modal-card-title" id="@minor.name-title">@minor.title</p>
+                        <button class="delete" aria-label="close"></button>
+                    </header>
+                    <section class="modal-card-body" id="@minor.name-body">
+                        <p>@minor.description</p>
+                        <br />
+                        <span style="color: black; font-weight: 400;">Courses:</span>
+                        @foreach (var course in minor.courses)
+                        {
+                            <p style = "color: #F76902;">@course</p>
+                        }
+                    </section>
+                    <footer class="modal-card-foot" id="@minor.name-footer">
+                        <p style="margin-top: 0.5em; color: red">@minor.note</p>
+                    </footer>
+                </div>
+            </div>
+        }
+    </div>

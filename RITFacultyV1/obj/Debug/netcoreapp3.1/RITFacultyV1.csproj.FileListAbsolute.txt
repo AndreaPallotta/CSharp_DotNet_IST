@@ -1,0 +1,445 @@
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\faculty.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.exe
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.deps.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.dev.json
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.pdb
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csprojAssemblyReference.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfoInputs.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfo.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.input.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.output.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorCoreGenerate.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cs
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CopyComplete
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.Manifest.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.xml
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.pdb
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.genruntimeconfig.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CoreCompileInputs.cache
+C:\Users\Paul Goldman\OneDrive\Documents\Spring2020Videos\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.json
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.exe
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.deps.json
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.json
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.pdb
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfo.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.input.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.output.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorCoreGenerate.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cs
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CopyComplete
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.Manifest.cache
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.xml
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.dll
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.pdb
+\\vmware-host\Shared Folders\ISTE-340\To do\WeekOf4_13A\SecondSolution\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.genruntimeconfig.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.json
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.exe
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.deps.json
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.json
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.pdb
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfo.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.input.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.output.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorCoreGenerate.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cs
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CopyComplete
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.Manifest.cache
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.xml
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.dll
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.pdb
+\\vmware-host\Shared Folders\ISTE-340\week 13\3 P3 start\P3 Start Files\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorAssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.exe
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.deps.json
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.pdb
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.input.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.TagHelpers.output.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorCoreGenerate.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.RazorTargetAssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.Views.pdb
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.Manifest.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\staticwebassets\RITFacultyV1.StaticWebAssets.xml
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.dll
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.pdb
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\RITFacultyV1.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Minors.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Tables.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\People.cshtml.g.cs
+C:\Users\andre\OneDrive\Desktop\SPRING_2020\SPRING_2020\ISTE340\project3\RITFacultyV1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Degrees.cshtml.g.cs

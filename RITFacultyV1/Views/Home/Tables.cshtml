@@ -1,0 +1,108 @@
+﻿@model RITFacultyV1.ViewModels.TablesViewModel
+
+    <h1 id="tables_title">Where our students Work</h1>
+<div id="tables-container">
+    <div class="table-name card">
+        <h5 style="padding-bottom: 0.5em; font-weight: 500; padding-top: 3em; color: #009CBD;">@Model.coopTable.coopTable.title</h5>
+        <a class="button modal_open_table is-primary modal-button" id="open_coop" data-target="#modal_coop" aria-haspopup="true" style="margin-bottom: 1em; padding-top: 0.3em;">Learn More</a>
+    </div>
+
+    <div class="table-name card">
+        <h5 style="padding-bottom: 0.5em; font-weight: 500; padding-top: 3em; color: #009CBD;">@Model.empTable.employmentTable.title</h5>
+        <a class="button modal_open_table is-primary modal-button" id="open_emp" data-target="#modal_coop" aria-haspopup="true" style="margin-bottom: 1em; padding-top: 0.3em;">Learn More</a>
+    </div>
+</div>
+
+
+
+
+<div id="modal_coop" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title" id="coop_title">@Model.coopTable.coopTable.title</p>
+            <button class="delete" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body" id="coop_body">
+            <table id="coopTable">
+                <thead>
+                <tr>
+                    <th>Degree</th>
+                    <th>Employer</th>
+                    <th>Location</th>
+                    <th>Term</th>
+                    </tr>
+                </thead>
+                <tbody id="coop_table_body">
+                    @foreach (var coopInfo in Model.coopTable.coopTable.coopInformation)
+                    {
+                    <tr>
+                        <td>
+                            @coopInfo.degree
+                        </td>
+                        <td>
+                            @coopInfo.employer
+                        </td>
+                        <td>
+                            @coopInfo.city
+                        </td>
+                        <td>
+                            @coopInfo.term
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </section>
+    </div>
+</div>
+
+<div id="modal_emp" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title" id="emp_title">@Model.empTable.employmentTable.title</p>
+            <button class="delete" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body" id="emp_body">
+            <table id="empTable">
+                <thead>
+                    <tr>
+                        <th>Degree</th>
+                        <th>Employer</th>
+                        <th>Location</th>
+                        <th>Title</th>
+                        <th>Start Date</th>
+                    </tr>
+                </thead>
+                <tbody id="coop_table_body">
+                    @foreach (var empInfo in Model.empTable.employmentTable.professionalEmploymentInformation)
+                    {
+                    <tr>
+                        <td>
+                            @empInfo.degree
+                        </td>
+                        <td>
+                            @empInfo.employer
+                        </td>
+                        <td>
+                            @empInfo.city
+                        </td>
+                        <td>
+                            @empInfo.title
+                        </td>
+                        <td>
+                            @empInfo.startDate
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </section>
+    </div>
+
+
+
+</div>
+
+

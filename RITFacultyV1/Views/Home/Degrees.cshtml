@@ -1,0 +1,106 @@
+@model RITFacultyV1.ViewModels.DegreesViewModel
+
+
+    <section id="degrees">
+        <h1 id="degrees_undergrad_title">Undergraduate Degrees</h1>
+
+        <div id="degrees-undergrad">
+            @foreach (var under in Model.undergrad)
+            {
+
+                <div class="degrees-undergrad-name card modal_open_degrees modal-button" id="open_@under.degreeName" data-target="#modal_@under.degreeName">
+                    <h5 style="color: #009CBD;">@under.title</h5>
+                    <p class="degrees-undergrad-description">@under.description</p>
+                </div>
+            }
+        </div>
+
+        @foreach (var under in Model.undergrad)
+        {
+            <div id="modal_@under.degreeName" class="modal">
+                <div class="modal-background"></div>
+                <div class="modal-card">
+                    <header class="modal-card-head">
+                        <p class="modal-card-title" id="title_@under.degreeName">@under.title</p>
+                        <button class="delete" aria-label="close"></button>
+                    </header>
+                    <section class="modal-card-body" id="body_@under.degreeName">
+                        <h1 style="font-size: 150%; color: #F76902; font-weight: bold; padding-bottom: 0.4em;">Concentrations</h1>
+                        @foreach (var conc in under.concentrations)
+                        {
+                            <ul>
+                                <li>
+                                    @conc
+                                </li>
+                            </ul>
+                        }
+                    </section>
+                </div>
+            </div>
+        }
+
+        <h1 id="degrees_grad_title">Graduate Degrees</h1>
+        <div id="degrees-grad">
+
+
+            @foreach (var grad in Model.graduate)
+            {
+                @if (grad.degreeName != "graduate advanced certificates")
+                {
+                    <div class="degrees-grad-name card modal_open_degrees modal-button" id="open_@grad.degreeName" data-target="#modal_@grad.degreeName">
+                        <h5 style="color: #009CBD;">@grad.title</h5>
+                        <p>@grad.description</p>
+                    </div>
+
+
+                }
+
+            }
+        </div>
+
+        @foreach (var grad in Model.graduate)
+        {
+            @if (grad.degreeName != "graduate advanced certificates")
+            {
+                <div id="modal_@grad.degreeName" class="modal">
+                    <div class="modal-background"></div>
+                    <div class="modal-card">
+                        <header class="modal-card-head">
+                            <p class="modal-card-title" id="title_@grad.degreeName">@grad.title</p>
+                            <button class="delete" aria-label="close"></button>
+                        </header>
+                        <section class="modal-card-body" id="body_@grad.degreeName">
+                            <h1 style="font-size: 150%; color: #F76902; font-weight: bold; padding-bottom: 0.4em;">Concentrations</h1>
+                            @foreach (var conc in grad.concentrations)
+                            {
+                                <ul>
+                                    <li>
+                                        @conc
+                                    </li>
+                                </ul>
+                            }
+                        </section>
+                    </div>
+                </div>
+            }
+
+            else
+            {
+                <div class="grad-advanced-cert">
+                    <h1 id="adv_degree_title">@grad.degreeName</h1>
+                    <div class="adv-cert-content">
+                        @foreach (var cert in grad.availableCertificates)
+                        {
+                            <div id="icon_@cert.Substring(0, 3)" class="grad-advanced-card card" style="cursor: context-menu;">
+                                <h5 style="color: #009CBD;">@cert</h5>
+                            </div>
+                        }
+                    </div>
+                </div>
+            }
+        }
+
+
+    </section>
+
+
